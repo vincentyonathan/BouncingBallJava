@@ -25,10 +25,10 @@ and also the draw function to render the background
 This class consisted of the Refresh rate of the ball and the array to store each ball.
 Also implementing action listener to initialize a new ball everytime space key is pressed.
 This class cosntructor is the one which called a new ball, and last the function to
-start the thread as the ball started to bounce.
+start the thread as the ball started to bounce. I also added a random function to generate new color everytime a new ball is initialized
 
 4. Main : 
 
 
 This class is used to initialize Frame using Java Swing JFrame, and to compile the whole code
-to create the beautifull screen saver multiple bouncing ball
+to create the beautifull screen saver of multiple bouncing ball
